@@ -1,6 +1,9 @@
 # Instalación de Git
 
 - Git permite a los desarrolladores seguir y gestionar los cambios en el código fuente a lo largo del tiempo. Cada vez que se realizan cambios, se guarda una nueva versión del proyecto, lo que facilita la recuperación de versiones anteriores si es necesario.
+
+![Git](img/git.png)
+
 ### Beneficios de Usar Git
 
 - **Historial Completo**: Mantiene un registro completo de todos los cambios realizados en el proyecto, permitiendo a los desarrolladores revisar y revertir cambios si es necesario.
@@ -12,11 +15,9 @@
 - **Amplia Adopción**: Es una herramienta de código abierto ampliamente adoptada en la industria del software, con una gran cantidad de recursos y soporte disponible.
 
 
-![Git](img/git.png)
-
 ## Instalar Git en Windows
 
-![Visual Studio](/Manuales/InstalacionGit/img/git01.png) 
+![Git](/Manuales/InstalacionGit/img/git01.png) 
 
 ### Descarga el Instalador de Git
 - Ve a la página oficial de Git <a href="https://git-scm.com/downloads/win">Puedes Descargarlo aquí.</a>
@@ -39,6 +40,8 @@
 - Abre una ventana de la línea de comandos (cmd) y escribe git --version para verificar que Git se ha instalado correctamente.
 
 ## Instalar Git en Mac 
+
+![Git](/Manuales/InstalacionGit/img/git02.png) 
 
 ### Instalador Binario de Git
 
