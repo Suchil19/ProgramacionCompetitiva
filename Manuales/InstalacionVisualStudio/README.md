@@ -10,6 +10,8 @@ Visual Studio es un entorno de desarrollo integrado (IDE) de Microsoft utilizado
 
 Visual Studio es un entorno de desarrollo integrado (IDE) potente y versátil creado por Microsoft. Es ampliamente utilizado por desarrolladores de todo el mundo para construir, depurar y desplegar aplicaciones en una variedad de plataformas y lenguajes de programación. A continuación, te presentamos algunas razones clave por las que es importante usar Visual Studio:
 
+![Visual Studio](/Manuales/InstalacionVisualStudio/img/visual02.png) 
+
 ### 1. **Integración Total**
 
 Visual Studio ofrece una integración completa con herramientas y servicios esenciales para el desarrollo de software. Esto incluye integración con sistemas de control de versiones como Git, plataformas de CI/CD, servicios en la nube y mucho más, facilitando un flujo de trabajo eficiente y coherente.
