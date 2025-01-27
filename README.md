@@ -80,7 +80,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 - [Sesión 12](Sesion-01/Readme.md)&nbsp; Manipulación de cadenas
 
 
-## Instrucciones de Instalación y Configuración
+## 🛠️ Instrucciones de Instalación y Configuración
 - [Manual Instalación Python](Manuales/InstalacionPython/README.md)
 - [Manual de Instalación y configuración Visual Studio Code](Manuales/InstalacionVisualStudio/README.md)
 - [Manual de configuración para Git](Manuales/InstalacionGit/README.md)
