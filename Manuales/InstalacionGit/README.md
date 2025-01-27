@@ -16,6 +16,8 @@
 
 ## Instalar Git en Windows
 
+![Visual Studio](/Manuales/InstalacionGit/img/git01.png) 
+
 ### Descarga el Instalador de Git
 - Ve a la página oficial de Git <a href="https://git-scm.com/downloads/win">Puedes Descargarlo aquí.</a>
 
