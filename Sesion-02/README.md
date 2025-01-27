@@ -6,6 +6,8 @@
 # Instalación
 
 - Instala Visual Studio paso a paso en - [este turorial](/Manuales/InstalacionVisualStudio/README.md)
+![Visual Studio](/Manuales/InstalacionVisualStudio/img/visual.png) 
+
 ## Concatenación en Python
 
 ## ¿Qué es la Concatenación?
