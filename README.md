@@ -81,10 +81,8 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 
 ## Instrucciones de Instalación y Configuración
-
+- [Mamual Instalación Python](Manuales/InstalacionPython/README.md)
 - [Manual de Instalación y configuración Visual Studio Code](Manuales/InstalacionVisualStudio/README.md)
-
-- [prueba](Manuales/InstalacionVisualStudio/README.md)
-
 - [Manual de configuración para Git](Manuales/InstalacionGit/README.md)
+- [Mamual Instalación GitHub](Manuales/ConfigGitHub/README.md)
 
