@@ -10,13 +10,13 @@
 
 En esta primera sesión comezarás con la **introducción** al lenguaje de programación **Python**,conocerás los precedentes del lenguaje, conocerás que es un editor de texto y lo más importante será conocer los pilares del pensamiento lógico computacional.
 
-## Requisitos Previos
+## 📜 Requisitos Previos
 
 * Tener conocimientos de informática intermedios, archivos y carpetas, además de saber usar apps  editores de texto.
 
 * Ser capaz de descargar, instalar y actualizar software.
 
-## ¿Por Qué Python?
+## 🤔 ¿Por Qué Python?
 
 - Sintaxis Clara y Concisa: Python es conocido por su simplicidad y legibilidad, lo que te permite concentrarte en resolver problemas en lugar de preocuparte por la sintaxis.
 
@@ -35,7 +35,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
     <li> Atención </li>
 </ul>
 
-## Beneficios
+## 😄 Beneficios
 
 - Mejora tus Habilidades: Desarrolla tus habilidades de resolución de problemas y pensamiento algorítmico.
 
@@ -66,18 +66,18 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 ## 👨‍🏫  Sesiones
 - [Presentación](README.md)
-- [Sesión 01](Sesion-01/README.md) Introducción al Pensamiento Lógico Computacional y variables
-- [Sesión 02](Sesion-02/README.md) Concatenación, Entradas de Datos y Tipos de Datos
-- [Sesión 03](Sesion-03/README.md) Condicionales y Ciclos
-- [Sesión 04](Sesion-04/README.md) Condicionales Múltiples y Anidadas
-- [Sesión 05](Sesion-05/README.md) Ciclos y Funciones
-- [Sesión 06](Sesion-06/README.md) Programación Orientada a Objetos
-- [Sesión 07](Sesion-07/Readme.md) Exponenciación modular
-- [Sesión 08](Sesion-08/Readme.md) Búsqueda Binaria
-- [Sesión 09](Sesion-09/Readme.md) Búsqueda completa
-- [Sesión 10](Sesion-10/Readme.md) Programación Dinámica
-- [Sesión 11](Sesion-01/Readme.md) Backtracking
-- [Sesión 12](Sesion-01/Readme.md) Manipulación de cadenas
+- [Sesión 01](Sesion-01/README.md)&nbsp; Introducción al Pensamiento Lógico Computacional y variables
+- [Sesión 02](Sesion-02/README.md)&nbsp; Concatenación, Entradas de Datos y Tipos de Datos
+- [Sesión 03](Sesion-03/README.md)&nbsp; Condicionales y Ciclos
+- [Sesión 04](Sesion-04/README.md)&nbsp; Condicionales Múltiples y Anidadas
+- [Sesión 05](Sesion-05/README.md)&nbsp; Ciclos y Funciones
+- [Sesión 06](Sesion-06/README.md)&nbsp; Programación Orientada a Objetos
+- [Sesión 07](Sesion-07/Readme.md)&nbsp; Exponenciación modular
+- [Sesión 08](Sesion-08/Readme.md)&nbsp; Búsqueda Binaria
+- [Sesión 09](Sesion-09/Readme.md)&nbsp; Búsqueda completa
+- [Sesión 10](Sesion-10/Readme.md)&nbsp; Programación Dinámica
+- [Sesión 11](Sesion-01/Readme.md)&nbsp; Backtracking
+- [Sesión 12](Sesion-01/Readme.md)&nbsp; Manipulación de cadenas
 
 
 ## Instrucciones de Instalación y Configuración
