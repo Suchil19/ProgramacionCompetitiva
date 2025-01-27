@@ -143,7 +143,7 @@ Las buenas prácticas en programación son un conjunto de técnicas, principios 
 
 ## 📝 Organización de la clase
 - [Ejemplos](/Sesion-01/ejercicios/ejercicios-basicos.py)
-- [Práctica](practica/README.md)
+- [Práctica](practica/sesion01-practica.py)
 - [Sesión 02](/Sesion-02/Readme.md)
 
 ## 👨‍🏫  Sesiones

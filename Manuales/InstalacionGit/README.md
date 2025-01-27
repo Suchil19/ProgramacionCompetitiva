@@ -17,7 +17,7 @@
 ## Instalar Git en Windows
 
 ### Descarga el Instalador de Git
-- Ve a la página oficial de Git <a href="https://git-scm.com/downloads/win">Puedes Descargarlo aquí.</a></p>
+- Ve a la página oficial de Git <a href="https://git-scm.com/downloads/win">Puedes Descargarlo aquí.</a>
 
 ### Ejecuta el archivo de instalación
 
@@ -40,7 +40,7 @@
 
 ### Instalador Binario de Git
 
-- Descargar el Instalador de Git desde la página oficial de Git <a href="https://sourceforge.net/projects/git-osx-installer/">Puedes Descargarlo aquí.</a></p>
+- Descargar el Instalador de Git desde la página oficial de Git <a href="https://sourceforge.net/projects/git-osx-installer/">Puedes Descargarlo aquí.</a>
 
 - Ejecutar el Instalador y seguir las instrucciones.
 
