@@ -55,15 +55,6 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 - Colabora y Aprende: Únete a comunidades y foros donde puedas discutir estrategias, compartir soluciones y recibir retroalimentación
 
 
-
-
-
-## 📝 Organización de la clase
-
-- [Práctica](practica/README.md)
-- [Presentación - Sesión 07](presentacion/Sesion-07.pptx)
-
-
 ## 👨‍🏫  Sesiones
 - [Presentación](README.md)
 - [Sesión 01](Sesion-01/README.md)&nbsp; Introducción al Pensamiento Lógico Computacional y variables
