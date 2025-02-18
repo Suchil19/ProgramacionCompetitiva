@@ -209,19 +209,21 @@ Imprime los números del 1 al 10 usando un bucle `for`.
 ```python
 for i in range(1, 11):
     print(i)
-Explicación:
+```
+- Explicación:
 Usamos range(1, 11) para generar una secuencia de números del 1 al 10.
 
-El bucle for itera sobre cada número en la secuencia y lo imprime.
+## El bucle for itera sobre cada número en la secuencia y lo imprime.
 
 2. Imprimir elementos de una lista
 Imprime cada elemento de la lista de frutas.
 
-python
+``` python
 frutas = ['manzana', 'banana', 'cereza']
 for fruta in frutas:
     print(fruta)
-Explicación:
+```
+- Explicación:
 El bucle for itera sobre cada elemento de la lista frutas.
 
 fruta toma el valor de cada elemento en cada iteración y lo imprime.
@@ -229,13 +231,14 @@ fruta toma el valor de cada elemento en cada iteración y lo imprime.
 3. Calcular la suma de los números en una lista
 Suma todos los números en una lista y muestra el resultado.
 
-python
+``` python
 numeros = [1, 2, 3, 4, 5]
 suma = 0
 for numero in numeros:
     suma += numero
 print("La suma es:", suma)
-Explicación:
+```
+- Explicación:
 Inicializamos suma en 0.
 
 El bucle for itera sobre cada número en la lista numeros, sumándolos a suma.
@@ -245,11 +248,12 @@ Finalmente, imprimimos el resultado de la suma.
 4. Imprimir números pares del 1 al 20
 Imprime todos los números pares del 1 al 20.
 
-python
+``` python
 for i in range(1, 21):
     if i % 2 == 0:
         print(i)
-Explicación:
+```
+- Explicación:
 Usamos range(1, 21) para generar una secuencia de números del 1 al 20.
 
 El bucle for itera sobre cada número, y el condicional if verifica si el número es par.
@@ -257,20 +261,21 @@ El bucle for itera sobre cada número, y el condicional if verifica si el númer
 5. Crear una lista de los cuadrados de los números del 1 al 10
 Genera una lista que contiene los cuadrados de los números del 1 al 10.
 
-python
+```python
 cuadrados = []
 for i in range(1, 11):
     cuadrados.append(i ** 2)
 print(cuadrados)
-Explicación:
+```
+- Explicación:
 Inicializamos una lista vacía cuadrados.
 
-El bucle for itera sobre cada número del 1 al 10 y calcula su cuadrado usando i ** 2, que luego añadimos a la lista cuadrados.
+- El bucle for itera sobre cada número del 1 al 10 y calcula su cuadrado usando i ** 2, que luego añadimos a la lista cuadrados.
 
 6. Contar el número de vocales en una cadena
 Cuenta cuántas vocales hay en una cadena de texto.
 
-python
+``` python
 cadena = "Hola Mundo"
 vocales = "aeiouAEIOU"
 contador = 0
@@ -278,7 +283,8 @@ for letra in cadena:
     if letra in vocales:
         contador += 1
 print("Número de vocales:", contador)
-Explicación:
+``` 
+- Explicación:
 Definimos una cadena cadena y un conjunto de vocales vocales.
 
 Inicializamos contador en 0.
@@ -288,12 +294,14 @@ El bucle for itera sobre cada letra en cadena y, si es una vocal, incrementa con
 7. Imprimir caracteres de una cadena en líneas separadas
 Imprime cada carácter de una cadena en una línea separada.
 
-python
+``` python
 cadena = "Python"
 for char in cadena:
     print(char)
 Explicación:
-El bucle for itera sobre cada carácter en la cadena cadena y lo imprime en una línea separada.
+```
+
+- El bucle for itera sobre cada carácter en la cadena cadena y lo imprime en una línea separada.
 
 8. Calcular el factorial de un número
 Calcula el factorial de un número dado.
