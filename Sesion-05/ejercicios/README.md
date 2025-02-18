@@ -156,7 +156,7 @@ Finalmente, imprimimos el número más grande encontrado.
 ### Bonus
 
 pip install requests
-
+``` python
 import requests
 
 def obtener_datos_pelicula(id_pelicula):
@@ -168,9 +168,11 @@ def obtener_datos_pelicula(id_pelicula):
         return None
 
 # Ejemplo de uso
+
 id_pelicula = "0169364"  # ID de la película "El viento se llevó lo que"
 datos_pelicula = obtener_datos_pelicula(id_pelicula)
 if datos_pelicula:
     print(datos_pelicula)
 else:
     print("No se encontraron datos de la película.")
+    ```
