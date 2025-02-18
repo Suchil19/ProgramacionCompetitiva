@@ -155,7 +155,7 @@ Finalmente, imprimimos el número más grande encontrado.
 
 ### Bonus
 
-pip install requests
+## pip install requests
 ``` python
 import requests
 
@@ -175,4 +175,4 @@ if datos_pelicula:
     print(datos_pelicula)
 else:
     print("No se encontraron datos de la película.")
-    ```
+    
