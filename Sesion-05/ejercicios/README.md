@@ -32,14 +32,15 @@ for i in range(1, 21):
 ```
 ## Crear una lista de los cuadrados de los números del 1 al 10:
 
-python
+```python
 cuadrados = []
 for i in range(1, 11):
     cuadrados.append(i ** 2)
 print(cuadrados)
-Contar el número de vocales en una cadena:
+```
+## Contar el número de vocales en una cadena:
 
-python
+```python
 cadena = "Hola Mundo"
 vocales = "aeiouAEIOU"
 contador = 0
@@ -47,10 +48,8 @@ for letra in cadena:
     if letra in vocales:
         contador += 1
 print("Número de vocales:", contador)
-Espero que estos ejercicios te sean útiles. ¿Te gustaría probar con algo más avanzado o tienes alguna pregunta sobre Python?
 
-dame al menos 10 ejercicios con for explicados en archivo readme
-¡Entendido! Aquí tienes 10 ejercicios con bucles for, cada uno explicado con detalle. Puedes copiar este contenido en un archivo README.mdpara tener una referencia organizada.
+```
 
 Ejercicios Prácticos con Bucles for en Python
 1. Imprimir números del 1 al 10
