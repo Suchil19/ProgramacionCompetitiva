@@ -126,4 +126,4 @@ El bucle for en Python es una herramienta poderosa y versátil, permitiendo iter
 
 # Ejercicios
 
-- [Ejemplos](./ejercicios/README.md)
+- [Ejemplos](/Sesion-05/ejercicios/README.md)
