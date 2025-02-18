@@ -51,29 +51,31 @@ print("Número de vocales:", contador)
 
 ```
 
-Ejercicios Prácticos con Bucles for en Python
+# Ejercicios Prácticos con Bucles for en Python
 1. Imprimir números del 1 al 10
 Imprime los números del 1 al 10 usando un bucle for.
 
-python
+```python
 for i in range(1, 11):
     print(i)
-Explicación:
-Usamos range(1, 11) para generar una secuencia de números del 1 al 10.
+```
+- Explicación:
+- Usamos range(1, 11) para generar una secuencia de números del 1 al 10.
 
-El bucle for itera sobre cada número en la secuencia y lo imprime.
+## El bucle for itera sobre cada número en la secuencia y lo imprime.
 
 2. Imprimir elementos de una lista
 Imprime cada elemento de la lista de frutas.
 
-python
+``` python
 frutas = ['manzana', 'banana', 'cereza']
 for fruta in frutas:
     print(fruta)
-Explicación:
-El bucle for itera sobre cada elemento de la lista frutas.
+```
+## Explicación:
+- El bucle for itera sobre cada elemento de la lista frutas.
 
-fruta toma el valor de cada elemento en cada iteración y lo imprime.
+- fruta toma el valor de cada elemento en cada iteración y lo imprime.
 
 3. Calcular la suma de los números en una lista
 Suma todos los números en una lista y muestra el resultado.
