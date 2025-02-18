@@ -152,3 +152,25 @@ Inicializamos max_numero con el primer elemento de la lista numeros.
 El bucle for itera sobre cada número en la lista, actualizando max_numero si encuentra un número mayor.
 
 Finalmente, imprimimos el número más grande encontrado.
+
+### Bonus
+
+pip install requests
+
+import requests
+
+def obtener_datos_pelicula(id_pelicula):
+    url = f"http://localhost:22048/api/film?id={id_pelicula}"
+    respuesta = requests.get(url)
+    if respuesta.status_code == 200:
+        return respuesta.json()
+    else:
+        return None
+
+# Ejemplo de uso
+id_pelicula = "0169364"  # ID de la película "El viento se llevó lo que"
+datos_pelicula = obtener_datos_pelicula(id_pelicula)
+if datos_pelicula:
+    print(datos_pelicula)
+else:
+    print("No se encontraron datos de la película.")
