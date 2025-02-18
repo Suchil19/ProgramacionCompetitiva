@@ -122,3 +122,8 @@ print(sum(i for i in range(10)))
 ```
 ## Conclusión
 El bucle for en Python es una herramienta poderosa y versátil, permitiendo iterar sobre una amplia variedad de estructuras de datos de manera eficiente y concisa.
+
+
+# Ejercicios
+
+- [Ejemplos](./ejercicios/README.md)
