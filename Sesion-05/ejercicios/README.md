@@ -104,13 +104,14 @@ Explicación:
 8. Calcular el factorial de un número
 Calcula el factorial de un número dado.
 
-python
+```python
 n = 5
 factorial = 1
 for i in range(1, n + 1):
     factorial *= i
 print("El factorial de", n, "es", factorial)
-Explicación:
+```
+- Explicación:
 Inicializamos factorial en 1.
 
 El bucle for itera desde 1 hasta n (incluyendo n), multiplicando factorial por cada número.
